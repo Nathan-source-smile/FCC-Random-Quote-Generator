@@ -3,10 +3,10 @@ import React from 'react'
 import { useState, useEffect } from 'react'
 
 
-export default function Quote() {
+export default function Quote(props) {
   const [quotes, setQuotes] = useState("om");
   
-
+//Logic to fetch API and show data
   const changeQuote = () => {
     fetch("https://type.fit/api/quotes")
     .then((res) => res.json())
@@ -22,6 +22,11 @@ export default function Quote() {
     changeQuote();
   }, []);
 
+  function callTwo(){
+    changeQuote();
+    props.toggleColor();
+}
+
   return (
     <div id='quote-box' className="card text-center w-50 position-absolute top-50 start-50 translate-middle">
   <div className="card-header fw-semibold">
@@ -31,7 +36,7 @@ export default function Quote() {
     <h4 id='text' className="card-text">"{quotes.text}"</h4>
     <h6 id='author' className="card-text">- {quotes.author} </h6>
     <div className = 'mt-4'>
-    <a className="btn btn-primary" onClick={changeQuote}>Change Quote</a>
+    <a className={`btn btn-${props.mode.slice(3)}`} onClick={callTwo}>Change Quote</a>
     </div>
   </div>
   <div className="card-footer text-muted">
@@ -50,6 +55,7 @@ export default function Quote() {
             className="d-inline-block align-text-top"
           /> </a>
   </div>
+  <h5>by Om Patel</h5>
 </div>
   )
 }
