@@ -9,7 +9,7 @@
 ### Feel free to learn and use this code and always welcoming relevant feedbacks.
 
 ### I am not removing react's readme files because, it will help you using react as well.
-Thanks!!
+### Thanks!!
 
 ## Om Patel(A Front-End Development Enthusiast)
 
