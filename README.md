@@ -2,7 +2,7 @@
 
 ## This is my First Project on React!!
 
-## The project is hosted on Netlify : https://randomquotegeneratorbyom.netlify.app/
+### The project is hosted on Netlify : https://randomquotegeneratorbyom.netlify.app/
 
 ### I have written Comments wherever neccessary.
 ### I have divided this site into two components: Navbar and Quote section respectively.
