@@ -55,6 +55,12 @@ Note: Twitter does not allow links to be loaded in an iframe. Try using the targ
 
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78680563/214636390-39bba6e8-e391-4456-8e97-b77030df845e.png" alt="Om's Logo Image"/>
+</p>
+
+
+
 
 
 # Getting Started with Create React App
