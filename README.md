@@ -55,7 +55,7 @@ Note: Twitter does not allow links to be loaded in an iframe. Try using the targ
 
 
 
-<<p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png" alt="Om's Logo Image"/>
 </p>
 
