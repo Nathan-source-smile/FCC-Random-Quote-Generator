@@ -1,3 +1,15 @@
+# FCC-Random-Quote-Generator
+
+## Updates made to this project on 12/03/2023:
+- Included More Color Themes.
+- Added Copy Text Button Feature to Copy Quotes and their Authors Respectively.
+- Responsive Design Improvements.
+- Introduced Spinner Component which will show until data is been fetched.
+- Minor Bugs and Fixes.
+
+
+
+
 Welcome to My Repository!!
 
 This is my First Project on React!!
