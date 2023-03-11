@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FCC-Random-Quote-Generator
 
 ## Updates made to this project on 12/03/2023:
@@ -11,19 +12,22 @@
 
 
 Welcome to My Repository!!
+=======
+# Welcome to My Repository!!
+>>>>>>> df2f49fbdc7d8a0ae8983743e8dbdb7bf9df3187
 
-This is my First Project on React!!
+## This is my First Project on React!!
 
-The project is hosted on Netlify : https://randomquotegeneratorbyom.netlify.app/
+### The project is hosted on Netlify : https://randomquotegeneratorbyom.netlify.app/
 
-I have written Comments wherever neccessary.
-I have divided this site into two components: Navbar and Quote section respectively.
-Feel free to learn and use this code and always welcoming relevant feedbacks.
+### I have written Comments wherever neccessary.
+### I have divided this site into two components: Navbar and Quote section respectively.
+### Feel free to learn and use this code and always welcoming relevant feedbacks.
 
-I am not removing react's readme files because, it will help you using react as well.
-Thanks!!
+### I am not removing react's readme files because, it will help you using react as well.
+### Thanks!!
 
-Om Patel(A Front-End Development Enthusiast)
+## Om Patel(A Front-End Development Enthusiast)
 
 The problem statement is given below:
 
@@ -64,6 +68,12 @@ Once you're done, submit the URL to your working project with all its tests pass
 Note: Twitter does not allow links to be loaded in an iframe. Try using the target="_blank" or target="_top" attribute on the #tweet-quote element if your tweet won't load. target="_top" will replace the current tab so make sure your work is saved.
 
 
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png" alt="Om's Logo Image"/>
+</p>
 
 
 
