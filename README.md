@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FCC-Random-Quote-Generator
 
 ## Updates made to this project on 12/03/2023:
@@ -14,7 +13,6 @@
 Welcome to My Repository!!
 =======
 # Welcome to My Repository!!
->>>>>>> df2f49fbdc7d8a0ae8983743e8dbdb7bf9df3187
 
 ## This is my First Project on React!!
 
